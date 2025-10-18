@@ -1,0 +1,7 @@
+# Ignore user-specific and build files
+**/*.user
+**/*.csproj.user
+**/bin/
+**/obj/
+.vscode/
+.vs/
